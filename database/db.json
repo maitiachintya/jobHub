@@ -1,0 +1,345 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "john.doe@example.com",
+      "password": "John@1234"
+    },
+    {
+      "id": "2",
+      "firstname": "Jane",
+      "lastname": "Smith",
+      "email": "jane.smith@example.com",
+      "password": "Jane@5678"
+    },
+    {
+      "id": "3",
+      "firstname": "Alice",
+      "lastname": "Johnson",
+      "email": "alice.johnson@example.com",
+      "password": "Alice@91011"
+    },
+    {
+      "id": "1735142883983",
+      "firstname": "Achintya",
+      "lastname": "Maiti",
+      "email": "achintyamaiti20@gmail.com",
+      "password": "Achintya@40"
+    },
+    {
+      "id": "1735831641235",
+      "firstname": "Pratik",
+      "lastname": "Pattanayak",
+      "email": "ppnayak123@gmai.com",
+      "password": "Ppnayak@123"
+    },
+    {
+      "id": "1735885869111",
+      "firstname": "Arijit",
+      "lastname": "Bera",
+      "email": "arijit432@gmail.com",
+      "password": "Arijit@123"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Software Engineer",
+      "company": "TechCorp",
+      "location": "New York, NY",
+      "description": "Develop and maintain software applications across multiple platforms.",
+      "requirements": "3+ years of software development experience, proficiency in Java, Python, or C#.",
+      "salary": "$90,000 - $120,000 per year",
+      "company_culture": "Collaborative, innovative, and fast-paced environment.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "2",
+      "title": "Product Manager",
+      "company": "InnovateX",
+      "location": "San Francisco, CA",
+      "description": "Lead the product development lifecycle from concept to launch, ensuring alignment with customer needs.",
+      "requirements": "5+ years of experience in product management, excellent leadership skills, and experience in agile methodology.",
+      "salary": "$110,000 - $140,000 per year",
+      "company_culture": "Innovative, customer-centric, results-driven.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "3",
+      "title": "Data Scientist",
+      "company": "DataMinds",
+      "location": "Remote",
+      "description": "Analyze and interpret complex data sets to help drive business decisions using machine learning and AI.",
+      "requirements": "Proficiency in Python, SQL, and machine learning algorithms, a degree in Computer Science or a related field.",
+      "salary": "$95,000 - $125,000 per year",
+      "company_culture": "Data-driven, collaborative, fast-paced.",
+      "job_type": "Remote"
+    },
+    {
+      "id": "4",
+      "title": "UX Designer",
+      "company": "DesignFlow",
+      "location": "Austin, TX",
+      "description": "Create intuitive and engaging user interfaces and experiences for web and mobile apps.",
+      "requirements": "Experience with Adobe XD, Sketch, and user research methodologies, strong design portfolio.",
+      "salary": "$80,000 - $110,000 per year",
+      "company_culture": "User-focused, creative, inclusive, collaborative.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "5",
+      "title": "Marketing Manager",
+      "company": "BrandBoosters",
+      "location": "Chicago, IL",
+      "description": "Oversee and manage the development and execution of marketing strategies, campaigns, and brand growth.",
+      "requirements": "5+ years of experience in marketing, strong knowledge of digital marketing and analytics tools.",
+      "salary": "$85,000 - $115,000 per year",
+      "company_culture": "Creative, strategic, collaborative, and dynamic environment.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "6",
+      "title": "Software Engineer",
+      "company": "ByteWorks",
+      "location": "Seattle, WA",
+      "description": "Develop and maintain backend systems and APIs, improve application performance, and optimize workflows.",
+      "requirements": "Experience with Node.js, RESTful API design, cloud infrastructure, and databases.",
+      "salary": "$100,000 - $130,000 per year",
+      "company_culture": "Innovative, agile, collaborative, and fast-paced environment.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "7",
+      "title": "Product Designer",
+      "company": "CreativeWave",
+      "location": "Los Angeles, CA",
+      "description": "Design user-friendly product interfaces, improve usability and work closely with engineers and product managers.",
+      "requirements": "Proficiency in Figma, Sketch, and wireframing, experience with user-centered design principles.",
+      "salary": "$85,000 - $110,000 per year",
+      "company_culture": "Collaborative, artistic, problem-solving, and design-driven.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "8",
+      "title": "Sales Manager",
+      "company": "SalesForcePro",
+      "location": "Boston, MA",
+      "description": "Manage and develop sales teams, create strategies to increase revenue and optimize business performance.",
+      "requirements": "5+ years of experience in sales management, leadership skills, and excellent communication abilities.",
+      "salary": "$90,000 - $130,000 per year",
+      "company_culture": "Dynamic, result-oriented, customer-focused, and collaborative.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "9",
+      "title": "HR Manager",
+      "company": "PeopleFirst",
+      "location": "Dallas, TX",
+      "description": "Develop and implement HR policies, manage employee relations, and ensure compliance with employment laws.",
+      "requirements": "5+ years of experience in HR, knowledge of labor laws, and strong communication skills.",
+      "salary": "$70,000 - $95,000 per year",
+      "company_culture": "Inclusive, supportive, people-oriented.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "10",
+      "title": "Operations Manager",
+      "company": "OpEx Solutions",
+      "location": "Miami, FL",
+      "description": "Oversee the daily operations of the company, streamline processes, and ensure efficiency across departments.",
+      "requirements": "Experience in operations management, strong organizational skills, and a background in logistics.",
+      "salary": "$85,000 - $115,000 per year",
+      "company_culture": "Efficiency-focused, structured, high-performance environment.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "11",
+      "title": "Content Strategist",
+      "company": "ContentLab",
+      "location": "Remote",
+      "description": "Plan and execute content strategies, manage content teams, and create engaging content that aligns with business objectives.",
+      "requirements": "Proven experience in content strategy, excellent writing skills, and creativity.",
+      "salary": "$75,000 - $105,000 per year",
+      "company_culture": "Creative, collaborative, and results-driven.",
+      "job_type": "Remote"
+    },
+    {
+      "id": "12",
+      "title": "Cloud Engineer",
+      "company": "SkyTech Solutions",
+      "location": "San Jose, CA",
+      "description": "Design, implement, and manage cloud infrastructure to ensure scalability and security of applications.",
+      "requirements": "Experience with AWS, Azure, or Google Cloud, knowledge of cloud security practices.",
+      "salary": "$110,000 - $140,000 per year",
+      "company_culture": "Innovative, agile, and forward-thinking.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "13",
+      "title": "SEO Specialist",
+      "company": "RankBoosters",
+      "location": "Chicago, IL",
+      "description": "Optimize website content for search engines, analyze traffic, and improve SEO rankings.",
+      "requirements": "Experience with SEO tools like Google Analytics, SEMrush, and Ahrefs.",
+      "salary": "$60,000 - $85,000 per year",
+      "company_culture": "Data-driven, results-oriented, and dynamic.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "14",
+      "title": "Legal Advisor",
+      "company": "LawTech Firm",
+      "location": "New York, NY",
+      "description": "Provide legal advice, review contracts, and ensure compliance with regulations.",
+      "requirements": "JD degree and licensed to practice law, 3+ years of legal experience.",
+      "salary": "$100,000 - $150,000 per year",
+      "company_culture": "Professional, ethical, and team-oriented.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "15",
+      "title": "Business Analyst",
+      "company": "BizSol Solutions",
+      "location": "Boston, MA",
+      "description": "Analyze business processes, gather requirements, and provide recommendations for business improvement.",
+      "requirements": "Experience in business analysis, strong problem-solving skills.",
+      "salary": "$85,000 - $115,000 per year",
+      "company_culture": "Analytical, strategic, and collaborative.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "16",
+      "title": "Web Developer",
+      "company": "WebGenius",
+      "location": "Los Angeles, CA",
+      "description": "Design and develop responsive websites, optimize user experiences, and maintain web applications.",
+      "requirements": "Experience with HTML, CSS, JavaScript, and modern web development frameworks.",
+      "salary": "$70,000 - $95,000 per year",
+      "company_culture": "Collaborative, fast-paced, creative.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "17",
+      "title": "Network Engineer",
+      "company": "NetWorks",
+      "location": "Dallas, TX",
+      "description": "Design and maintain network systems, ensure network security, and troubleshoot issues.",
+      "requirements": "Experience with networking protocols, routers, switches, and network security.",
+      "salary": "$90,000 - $125,000 per year",
+      "company_culture": "Innovative, problem-solving, and technical.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "18",
+      "title": "System Administrator",
+      "company": "SysTech Services",
+      "location": "Chicago, IL",
+      "description": "Manage and support company IT infrastructure, ensure system security, and optimize server performance.",
+      "requirements": "Experience with Linux/Windows, networking, and system administration tools.",
+      "salary": "$80,000 - $110,000 per year",
+      "company_culture": "Supportive, team-oriented, and technical.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "19",
+      "title": "AI Engineer",
+      "company": "AI Lab Innovations",
+      "location": "San Francisco, CA",
+      "description": "Develop AI-based solutions, work on machine learning models, and improve algorithms.",
+      "requirements": "Experience in AI/ML, Python, and TensorFlow.",
+      "salary": "$120,000 - $160,000 per year",
+      "company_culture": "Innovative, creative, and fast-paced.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "20",
+      "title": "Cloud Security Engineer",
+      "company": "SecureCloud",
+      "location": "Remote",
+      "description": "Ensure cloud infrastructure security, monitor for vulnerabilities, and implement security best practices.",
+      "requirements": "Experience in cloud security, certifications in cloud security platforms.",
+      "salary": "$110,000 - $150,000 per year",
+      "company_culture": "Security-focused, detail-oriented, and remote-friendly.",
+      "job_type": "Remote"
+    },
+    {
+      "id": "21",
+      "title": "Cloud Security Architect",
+      "company": "CloudDefender",
+      "location": "Hybrid (New York, NY)",
+      "description": "Design, implement, and oversee the security architecture for cloud-based systems, ensuring data integrity and compliance with industry standards.",
+      "requirements": "5+ years of experience in cloud security, strong knowledge of AWS, Azure, and Google Cloud, certifications in CISSP or CCSP.",
+      "salary": "$125,000 - $160,000 per year",
+      "company_culture": "Innovative, collaborative, and compliance-driven.",
+      "job_type": "Hybrid"
+    },
+    {
+      "id": "22",
+      "title": "Cloud Security Analyst",
+      "company": "NetSecure",
+      "location": "San Francisco, CA",
+      "description": "Monitor and analyze cloud infrastructure to detect security breaches, assist in incident response, and ensure continuous compliance with security standards.",
+      "requirements": "2+ years of experience in cloud security, proficiency with cloud platforms like AWS and Azure, basic understanding of security frameworks.",
+      "salary": "$90,000 - $120,000 per year",
+      "company_culture": "Dynamic, fast-paced, and innovation-driven.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "23",
+      "title": "AI Product Manager",
+      "company": "TechAI Labs",
+      "location": "Seattle, WA",
+      "description": "Manage the development and launch of AI-driven products, define product strategies, and collaborate with engineers and stakeholders.",
+      "requirements": "Experience in product management, knowledge of AI and machine learning, excellent communication skills.",
+      "salary": "$130,000 - $170,000 per year",
+      "company_culture": "Customer-focused, cross-functional, and forward-thinking.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "24",
+      "title": "Senior React Developer",
+      "company": "ByteWorks Solutions",
+      "location": "San Francisco, CA",
+      "description": "Lead the development of high-performance React applications, mentor junior developers, and work on complex user interfaces for a range of client projects.",
+      "requirements": "Extensive experience with React, JavaScript, Redux, and component-based architecture. Experience with server-side rendering and TypeScript is a plus.",
+      "salary": "$120,000 - $160,000 per year",
+      "company_culture": "Innovative, fast-paced, and values professional growth.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "25",
+      "title": "React Developer",
+      "company": "CloudTech Innovations",
+      "location": "Austin, TX",
+      "description": "Develop scalable and interactive web applications using React, work closely with UX/UI designers, and ensure the performance and responsiveness of applications.",
+      "requirements": "Proficiency in React.js, JavaScript, HTML, CSS, and experience with RESTful APIs.",
+      "salary": "$100,000 - $130,000 per year",
+      "company_culture": "Collaborative, dynamic, and developer-friendly.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "26",
+      "title": "Frontend React Developer",
+      "company": "NextGen Web Solutions",
+      "location": "Chicago, IL",
+      "description": "Build modern, responsive user interfaces for web applications, collaborate with backend developers to integrate APIs, and ensure cross-browser compatibility and performance optimization.",
+      "requirements": "Strong experience with React.js, HTML5, CSS3, JavaScript, and version control using Git. Familiarity with RESTful APIs and modern front-end build tools like Webpack.",
+      "salary": "$90,000 - $120,000 per year",
+      "company_culture": "Creative, collaborative, and results-driven.",
+      "job_type": "Full-time"
+    },
+    {
+      "id": "27",
+      "title": "Talent Acquisition Specialist",
+      "company": "WorkforcePro",
+      "location": "Austin, TX",
+      "description": "Manage end-to-end recruitment processes, source and evaluate candidates, and collaborate with hiring managers to meet staffing needs.",
+      "requirements": "3+ years of recruiting experience, proficiency in using applicant tracking systems (ATS), excellent interviewing skills, and strong understanding of talent acquisition best practices.",
+      "salary": "$60,000 - $85,000 per year",
+      "company_culture": "Dynamic, goal-oriented, and collaborative.",
+      "job_type": "Full-time"
+    }
+  ]
+}
